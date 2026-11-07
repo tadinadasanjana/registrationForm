@@ -1,0 +1,5 @@
+com/example/eventregistration/EventRegistrationApplication.class
+com/example/eventregistration/RegistrationService.class
+com/example/eventregistration/RegistrationRequest.class
+com/example/eventregistration/RegistrationController.class
+com/example/eventregistration/RegistrationResponse.class
